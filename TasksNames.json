@@ -96,5 +96,6 @@
 	{ "Name": "YamlToJson", "Description": "Converts YAML files to JSON files."},
 	{ "Name": "Zip", "Description": "Creates a .zip from a collection of files."},
 	{ "Name": "FlipCoin", "Description": "Flip Coin Task."},
-	{ "Name": "CreateRandomString", "Description": "Create Random Cryptography safe Strings."}
+	{ "Name": "CreateRandomString", "Description": "Create Random Cryptography safe Strings."},
+	{ "Name": "DockerVersion", "Description": "Get remote Docker API version."}
 ]

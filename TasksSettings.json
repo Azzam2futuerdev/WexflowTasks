@@ -101,5 +101,12 @@
 		{"Name": "Lower", "Required": true, "Type": "bool", "List": [], "DefaultValue": "true"},
 		{"Name": "Special", "Required": true, "Type": "bool", "List": [], "DefaultValue": "false"},
 		{"Name": "Result", "Required": true, "Type": "string", "List": [], "DefaultValue": ""}
+	],
+	"DockerVersion": [ 
+		{"Name": "dockerHost", "Required": true, "Type": "string", "List": [], "DefaultValue": ""},
+		{"Name": "dockerPort", "Required": true, "Type": "int", "List": [], "DefaultValue": "2376"},
+		{"Name": "dockerCertPath", "Required": true, "Type": "bool", "List": [], "DefaultValue": "false"},
+		{"Name": "dockerTlsVerify", "Required": true, "Type": "string", "List": [], "DefaultValue": ""},
+		{"Name": "dockerTlsVerify", "Required": true, "Type": "string", "List": [], "DefaultValue": ""}
 	]
 }
