@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wexflow.Tasks.DockerStartContainer", "Wexflow.Tasks.DockerStartContainer.csproj", "{88F592A0-44BB-44E6-8281-0CB37B49DB2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F592A0-44BB-44E6-8281-0CB37B49DB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F592A0-44BB-44E6-8281-0CB37B49DB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F592A0-44BB-44E6-8281-0CB37B49DB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F592A0-44BB-44E6-8281-0CB37B49DB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A342D8-D91C-40A5-8A65-4DAB53206CBD}
+	EndGlobalSection
+EndGlobal

@@ -97,5 +97,6 @@
 	{ "Name": "Zip", "Description": "Creates a .zip from a collection of files."},
 	{ "Name": "DockerVersion", "Description": "Get remote Docker API version."},
 	{ "Name": "DockerListContainers", "Description": "Get list of remote Docker containers."},
-	{ "Name": "DockerStopContainer", "Description": "Stop docker container."}
+	{ "Name": "DockerStopContainer", "Description": "Stop docker container."},
+	{ "Name": "DockerStartContainer", "Description": "Start docker container."}
 ]
