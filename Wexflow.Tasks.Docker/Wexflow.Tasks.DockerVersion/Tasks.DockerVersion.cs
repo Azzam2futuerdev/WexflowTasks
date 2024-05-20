@@ -64,11 +64,11 @@ namespace Wexflow.Tasks.DockerVersion
 
 						// Number of ContainersPaused
                         int pcontainers = jsonObject["ContainersPaused"].Value<int>();
-                        Info($"Number of Running Containers: {pcontainers}");
+                        Info($"Number of Paused Containers: {pcontainers}");
 						
 						// Number of ContainersStopped
                         int scontainers = jsonObject["ContainersStopped"].Value<int>();
-                        Info($"Number of Running Containers: {scontainers}");
+                        Info($"Number of Stopped Containers: {scontainers}");
 						
                         // Add more fields as needed
                         int images = jsonObject["Images"].Value<int>();
